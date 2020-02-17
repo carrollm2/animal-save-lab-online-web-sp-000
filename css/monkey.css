@@ -13,6 +13,6 @@ html {
   #monkey {
     position: absolute;
     top: 150px;
-    left: 80px;
+    /*left: 80px;*/
   }
 }
